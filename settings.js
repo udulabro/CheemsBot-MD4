@@ -54,32 +54,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['9470503127'] //ur owner number
+global.ownername = "UDULA BRO🎃" //ur owner name
+global.ytname = "YT:https://youtu.be/dQw4w9WgXcQ" //ur yt chanel name
+global.socialm = "https://youtu.be/dQw4w9WgXcQ" //ur github or insta name
+global.location = "Srilanka,Colombo" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.owner = ['9470503127']
+global.ownertag = '94705031527' //ur tag number
+global.botname = 'Ranil Go Home V3' //ur bot name
+global.linkz = "https://youtu.be/dQw4w9WgXcQ" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/dQw4w9WgXcQ" //ur website to be displayed
+global.botscript = 'https://youtu.be/dQw4w9WgXcQ' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "Ranil Go Home\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🦄Ranil Go Home V3" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://telegra.ph/file/0afb94ce585d42e7c2c10.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://telegra.ph/file/0afb94ce585d42e7c2c10.jpg") //ur logo pic
+global.err4r = fs.readFileSync("https://wallpapersafari.com/computer-error-wallpaper/") //ur error pic
+global.thumb = fs.readFileSync("https://telegra.ph/file/0afb94ce585d42e7c2c10.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['94705031527'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
